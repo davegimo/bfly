@@ -39,8 +39,8 @@
 		30A9233F2182F68A0034A367 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30A923412182F68A0034A367 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55443C43239403E200536450 /* Butterfly Roma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Butterfly Roma.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		55443C44239403E200536450 /* WebViewExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = WebViewExampleTests.xctest; path = "/Users/dave/Downloads/WebViewExample-master/build/Debug-iphoneos/WebViewExampleTests.xctest"; sourceTree = "<absolute>"; };
-		55443C45239403E200536450 /* Butterfly Roma.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Butterfly Roma.xctest"; path = "/Users/dave/Downloads/WebViewExample-master/build/Debug-iphoneos/Butterfly Roma.xctest"; sourceTree = "<absolute>"; };
+		55A894FF23940BBD00192661 /* WebViewExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = WebViewExampleTests.xctest; path = "/Users/dave/Desktop/Dev/WebViewExample-master/build/Debug-iphoneos/WebViewExampleTests.xctest"; sourceTree = "<absolute>"; };
+		55A8950023940BBD00192661 /* Butterfly Roma.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Butterfly Roma.xctest"; path = "/Users/dave/Desktop/Dev/WebViewExample-master/build/Debug-iphoneos/Butterfly Roma.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +124,7 @@
 			);
 			name = WebViewExampleTests;
 			productName = WebViewExampleTests;
-			productReference = 55443C44239403E200536450 /* WebViewExampleTests.xctest */;
+			productReference = 55A894FF23940BBD00192661 /* WebViewExampleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		30A923502182F68A0034A367 /* WebViewExampleUITests */ = {
@@ -142,7 +142,7 @@
 			);
 			name = WebViewExampleUITests;
 			productName = WebViewExampleUITests;
-			productReference = 55443C45239403E200536450 /* Butterfly Roma.xctest */;
+			productReference = 55A8950023940BBD00192661 /* Butterfly Roma.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
